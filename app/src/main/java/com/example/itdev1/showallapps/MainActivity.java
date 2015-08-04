@@ -104,5 +104,7 @@ public class MainActivity extends Activity {
                 break;
             }
         }
+
+        System.out.println("For GitHub Test Only.");
     }
 }
